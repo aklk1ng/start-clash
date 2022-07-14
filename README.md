@@ -1,2 +1,1 @@
-# start-clash
-A  simple script for clash
+确保curl，unzip可以正常使用
